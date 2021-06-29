@@ -95,7 +95,7 @@ function draw() {
     text("You Can Still Play The Previous Version i.e. Version 6.8, Game By Pressing \"C\" On Your Keyboard To Continue Playing The Game.", 0, 340);
     textSize(35);
     text("The Maintainance Started On - 29th June At 11:00 A.M.", 260, 440);
-    text("The Maintainance Will Be Over On - 29th June At 01:30 P.M.", 230, 500);
+    text("The Maintainance Will Be Over On - 29th June At 02:00 P.M.", 230, 500);
     fill("red");
     textSize(100);
     text("\"Scrimmage Run\"", 310, 120);
